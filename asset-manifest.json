@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Fooappnew/static/css/main.fe2b1150.css",
+    "main.js": "/Fooappnew/static/js/main.e70a3deb.js",
+    "static/js/453.3430075b.chunk.js": "/Fooappnew/static/js/453.3430075b.chunk.js",
+    "static/media/gheenaan.jpg": "/Fooappnew/static/media/gheenaan.31db738c23e15c034b71.jpg",
+    "static/media/alfaham-barbeque.jpg": "/Fooappnew/static/media/alfaham-barbeque.27b55985383df69c6cbe.jpg",
+    "static/media/fishfry.jpg": "/Fooappnew/static/media/fishfry.c3ff9382a0402b201eb4.jpg",
+    "static/media/egg-kothu-idiyappam.jpg": "/Fooappnew/static/media/egg-kothu-idiyappam.5e41cdf9ac02cfbb9fb7.jpg",
+    "static/media/img4.jpg": "/Fooappnew/static/media/img4.2b824bfa78a232373f4a.jpg",
+    "static/media/eggpupa.jpg": "/Fooappnew/static/media/eggpupa.a6858281d37c51692b3e.jpg",
+    "static/media/samosa (1).jpg": "/Fooappnew/static/media/samosa (1).ef83c0bf0d4dc81311c5.jpg",
+    "static/media/muttongravy.jpg": "/Fooappnew/static/media/muttongravy.3af5cec7bb4fdbc7c804.jpg",
+    "static/media/img1.jpg": "/Fooappnew/static/media/img1.ae88a0704b6edbb258b4.jpg",
+    "static/media/logo.png": "/Fooappnew/static/media/logo.e4cd15f6892acb83c877.png",
+    "static/media/kfc.jpg": "/Fooappnew/static/media/kfc.6ba4300e5668cde672d3.jpg",
+    "static/media/briyani.jpg": "/Fooappnew/static/media/briyani.4245a5097be78b1ba5ea.jpg",
+    "static/media/chilli-prawns.jpg": "/Fooappnew/static/media/chilli-prawns.622ec3131fcd9751f954.jpg",
+    "static/media/chicken-kari-dosai-1.jpg": "/Fooappnew/static/media/chicken-kari-dosai-1.3d1e96eaae728b2a6a08.jpg",
+    "static/media/briyani1.jpg": "/Fooappnew/static/media/briyani1.98cb3bb0a89682db8f87.jpg",
+    "static/media/black-pepper-chicken-boneless.jpg": "/Fooappnew/static/media/black-pepper-chicken-boneless.1e6225956cbe05c231bd.jpg",
+    "static/media/moru-moru-stick-chicken.jpg": "/Fooappnew/static/media/moru-moru-stick-chicken.65acb2ce48cc1629d784.jpg",
+    "static/media/nattu-kozhi-pepper-roast.jpg": "/Fooappnew/static/media/nattu-kozhi-pepper-roast.3a1100f8f23d8a664953.jpg",
+    "static/media/chilliparota.jpg": "/Fooappnew/static/media/chilliparota.6f097c2cdd6ca6887ae4.jpg",
+    "static/media/kadai-paneer.jpg": "/Fooappnew/static/media/kadai-paneer.a4094bb7469e85eaeb38.jpg",
+    "static/media/ceylon-egg-parotta-1.jpg": "/Fooappnew/static/media/ceylon-egg-parotta-1.3cb67650716651906864.jpg",
+    "static/media/spicicy red.jpg": "/Fooappnew/static/media/spicicy red.c16c2052d389ed900b0e.jpg",
+    "static/media/ChickenGheeRoast.jpg": "/Fooappnew/static/media/ChickenGheeRoast.c22cd6de785308bfdd07.jpg",
+    "static/media/slick.svg": "/Fooappnew/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Fooappnew/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Fooappnew/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Fooappnew/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Fooappnew/index.html",
+    "main.fe2b1150.css.map": "/Fooappnew/static/css/main.fe2b1150.css.map",
+    "main.e70a3deb.js.map": "/Fooappnew/static/js/main.e70a3deb.js.map",
+    "453.3430075b.chunk.js.map": "/Fooappnew/static/js/453.3430075b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2b1150.css",
+    "static/js/main.e70a3deb.js"
+  ]
+}
